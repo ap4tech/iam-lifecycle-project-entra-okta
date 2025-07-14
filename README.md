@@ -47,6 +47,7 @@ Provisioning based on department:
 - Configured SSO (SAML)
 - Created custom attribute: `departmentCode`
 
+
 ---## 📸 Project Screenshot Overview
 
 The following screenshot provides a high-level view of the Identity and Access Management (IAM) lifecycle flow implemented in this simulation project. It highlights key steps across both Entra ID and Okta:
@@ -57,6 +58,7 @@ The following screenshot provides a high-level view of the Identity and Access M
 - ✅ Single Sign-On (SSO) configuration in Okta
 
 👉 [Click here to view the full screenshot](IAM%20Screenshot.png)
+
 
 
 ## 📂 Project Structure
