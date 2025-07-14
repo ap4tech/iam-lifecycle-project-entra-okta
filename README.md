@@ -60,15 +60,15 @@ The following screenshot provides a high-level view of the Identity and Access M
 👉 [Click here to view the full screenshot](IAM%20Screenshot.png)
 
 
-
 ## 📂 Project Structure
+
+The repository is organized as follows:
 
 ```bash
 📁 iam-lifecycle-simulation-scim-entra-okta/
-├── README.md
-├── user_data.csv
-├── provisioning_steps.md
+├── README.md                          # Project overview and documentation
+├── user_data.csv                      # Sample input data for identity provisioning
+├── provisioning_steps.md              # Step-by-step notes for SCIM provisioning flow
 ├── screenshots/
-│   └── iam-summary.png
-├── flows/
-│   └── scim-lifecycle-flow.png
+│   └── iam-summary.png                # Combined IAM screenshots (Entra ID & Okta)
+
