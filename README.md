@@ -16,7 +16,7 @@ This project replicates a **real-world Identity and Access Management (IAM)** en
 ## ⚙️ What This Project Covers
 
 ### 🔄 Lifecycle Automation
-- HR adds user in Excel (HR system/ ex. Workday)
+- HR adds user to Excel (simulating an HR system like Workday)
 - User is created in IDP (Entra ID or Okta)
 - Group assignment & app access automated
 
@@ -27,7 +27,7 @@ This project replicates a **real-world Identity and Access Management (IAM)** en
 
 ### 🔁 SCIM Provisioning (Simulated)
 Provisioning based on department:
-- Finance users → Finance group → Finance apps
+- Finance users → Assigned to Finance group → Auto-provisioned access to Finance apps
 
 ---
 
