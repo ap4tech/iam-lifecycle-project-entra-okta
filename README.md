@@ -60,7 +60,7 @@ The following screenshot provides a high-level view of the Identity and Access M
 ![MFA Setup](./MFASetup.png)
 
 ### 🔹 SSO Config in Okta
-![SSO Config in Okta](screenshots/SSO%20config%20in%20Okta..png)
+![SSO Config in Okta](./SSOconfiginokta.png)
 
 
 ## 📂 Project Structure
