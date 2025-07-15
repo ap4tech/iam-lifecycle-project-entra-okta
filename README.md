@@ -50,18 +50,17 @@ Provisioning based on department:
 
 The following screenshot provides a high-level view of the Identity and Access Management (IAM) lifecycle flow implemented in this simulation project. It highlights key steps across both Entra ID and Okta:
 
-### 🔹 Users Created (Entra ID)
-![Users](screenshots/users-created.png)
+### 🔹 User Created in Entra ID
+![User Created in Entra ID](screenshots/User%20created%20in%20Entra%20ID..png)
 
-### 🔹 Group Assignment & App Access
-![Groups](screenshots/group-assignment.png)
+### 🔹 Group Assignment + Access
+![Group Assignment + Access](screenshots/Group%20assignment%20+%20access..png)
 
 ### 🔹 MFA Setup
-![MFA](screenshots/mfa-setup.png)
+![MFA Setup](screenshots/MFA%20Setup..png)
 
-### 🔹 SSO Config (Okta)
-![SSO](screenshots/sso-configuration.png)
-
+### 🔹 SSO Config in Okta
+![SSO Config in Okta](screenshots/SSO%20config%20in%20Okta..png)
 
 
 ## 📂 Project Structure
