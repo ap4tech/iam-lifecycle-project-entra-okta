@@ -54,7 +54,7 @@ The following screenshot provides a high-level view of the Identity and Access M
 ![User Created in Entra ID](screenshots/User%20created%20in%20Entra%20ID..png)
 
 ### 🔹 Group Assignment + Access
-![Group Assignment + Access](screenshots/Group%20assignment%20+%20access..png)
+![Group Assignment + Access](./Groupassignment+access.png)
 
 ### 🔹 MFA Setup
 ![MFA Setup](screenshots/MFA%20Setup..png)
