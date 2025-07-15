@@ -9,7 +9,7 @@ This project replicates a **real-world Identity and Access Management (IAM)** en
 - **Okta**
 - **Excel (simulating HR system)**
 - **SCIM-style provisioning**
-- **Screenshots**
+
 
 ---
 
