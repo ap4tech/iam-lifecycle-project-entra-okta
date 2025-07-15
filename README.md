@@ -1,5 +1,3 @@
-# iam-lifecycle-simulation-scim-entra-okta
-A hands-on project simulating identity lifecycle and SCIM-based provisioning using Azure Entra ID and Okta.
 # 🛡️ IAM Lifecycle Automation Project
 
 This project replicates a **real-world Identity and Access Management (IAM)** environment using free tools like Azure Entra ID and Okta. It simulates user provisioning through SCIM-like workflows, multi-factor authentication (MFA), SAML-based single sign-on (SSO), and lifecycle automation using an HR data source.
