@@ -57,7 +57,7 @@ The following screenshot provides a high-level view of the Identity and Access M
 ![Group Assignment + Access](./Groupassignment+access.png)
 
 ### 🔹 MFA Setup
-![MFA Setup](screenshots/MFA%20Setup..png)
+![MFA Setup](./MFASetup.png)
 
 ### 🔹 SSO Config in Okta
 ![SSO Config in Okta](screenshots/SSO%20config%20in%20Okta..png)
